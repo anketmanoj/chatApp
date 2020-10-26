@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "181922152500",
+    "firebase_url": "https://anketchatapp.firebaseio.com",
+    "project_id": "anketchatapp",
+    "storage_bucket": "anketchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181922152500:android:cb9e90c2334c9bfba68a61",
+        "android_client_info": {
+          "package_name": "com.anketchatapp.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181922152500-ismfcekngmhf2hdv88tkmqh9nm87t0a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCcVLvBHzgjX-ZCK-JoTZeEPoC-62vG3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181922152500-ismfcekngmhf2hdv88tkmqh9nm87t0a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
